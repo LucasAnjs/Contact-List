@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  margin-top: 20px;
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+}
+.head {
+  display: flex;
+  flex-direction: row;
+  align-items:flex-end;
+}
+.head img {
+  margin-top: 10px;
+  margin-left: 10px
+}
+.head h2{
+  display: inline-block;
+  position: relative;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.input-group {
+  margin-top: 50px;
+  margin-left: 30px;
+  width: 30%;
+}

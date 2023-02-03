@@ -1,0 +1,1 @@
+CREATE TABLE contact_list (id int primary key auto_increment, name varchar(25), mail varchar(55), phone varchar(10), department varchar(25));
